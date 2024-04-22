@@ -1,0 +1,17 @@
+{
+    "BDFDB": true,
+    "ZeresPluginLibrary": true,
+    "BetterAnimations": true,
+    "CallTimeCounter": true,
+    "EditUsers": true,
+    "EmojiUtilities": true,
+    "FriendNotifications": true,
+    "NitroEmoteAndScreenShareBypass": true,
+    "NitroPerks": true,
+    "ServerDetails": true,
+    "ShowAllActivities": true,
+    "SpotifyControls": true,
+    "UserDetails": false,
+    "UserVolumeBooster": false,
+    "VoiceUsersCounter": true
+}

@@ -1,0 +1,177 @@
+{
+	"all": {
+		"places": {
+			"contextMenu": true,
+			"chatTextarea": true,
+			"chatWindow": true,
+			"reactions": true,
+			"mentions": true,
+			"memberList": true,
+			"voiceChat": true,
+			"recentDms": true,
+			"dmsList": true,
+			"dmHeader": true,
+			"dmCalls": true,
+			"typing": true,
+			"friendList": true,
+			"inviteList": true,
+			"activity": true,
+			"userPopout": true,
+			"userProfile": true,
+			"mutualFriends": true,
+			"autocompletes": true,
+			"guildSettings": true,
+			"quickSwitcher": true,
+			"searchPopout": true,
+			"userAccount": true,
+			"appTitle": true
+		},
+		"types": {
+			"servers": true,
+			"dms": true
+		},
+		"users": {
+			"869424238761771038": {
+				"color1": [
+					233,
+					65,
+					30,
+					1
+				],
+				"color3": [
+					233,
+					65,
+					30,
+					1
+				],
+				"color4": [
+					233,
+					65,
+					30,
+					1
+				],
+				"color5": [
+					109,
+					20,
+					173,
+					1
+				],
+				"color6": [
+					109,
+					20,
+					173,
+					1
+				],
+				"color7": [
+					109,
+					20,
+					173,
+					1
+				],
+				"name": ""
+			},
+			"562599449709248532": {
+				"color1": [
+					109,
+					20,
+					173,
+					1
+				]
+			},
+			"663706313011888138": {
+				"color1": [
+					168,
+					67,
+					0,
+					1
+				]
+			},
+			"1016442282343403551": {
+				"color1": [
+					109,
+					20,
+					173,
+					1
+				],
+				"color2": [
+					233,
+					65,
+					30,
+					1
+				],
+				"color5": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color6": [
+					233,
+					30,
+					99,
+					1
+				],
+				"color7": [
+					233,
+					30,
+					99,
+					1
+				]
+			},
+			"1200439952647925956": {
+				"color1": [
+					82,
+					233,
+					30,
+					1
+				],
+				"color2": [
+					112,
+					128,
+					136,
+					1
+				],
+				"color5": [
+					52,
+					152,
+					219,
+					1
+				],
+				"color6": [
+					52,
+					152,
+					219,
+					1
+				],
+				"color7": [
+					52,
+					152,
+					219,
+					1
+				],
+				"name": "даник драник"
+			},
+			"860205234675384330": {
+				"color5": [
+					31,
+					139,
+					76,
+					1
+				],
+				"color6": [
+					31,
+					139,
+					76,
+					1
+				],
+				"color7": [
+					31,
+					139,
+					76,
+					1
+				],
+				"name": ""
+			}
+		}
+	}
+}
